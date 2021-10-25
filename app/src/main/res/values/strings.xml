@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Biwtaqwa</string>
+    <string name="text_weelcome">Asslamualaikum, Ikhsan</string>
+    <string name="text_name_pray">Subuh</string>
+    <string name="text_time_pray">04:20</string>
+    <string name="text_location_pray">Mekkah, Arab Saudi</string>
+    <string name="text_menu_doa">Doa Doa</string>
+    <string name="text_menu_dzikir">Dzikir</string>
+    <string name="text_menu_zakat">Zakat</string>
+    <string name="text_menu_jadwal_sholat">Jadwal\nSholat</string>
+    <string name="text_menu_video_kajian">Video\nKajian</string>
+    <string name="text_inspirasi">Inspirasi</string>
+    <string name="text_total_harta">Total Harta</string>
+    <string name="text_ok">OK</string>
+    <string name="text_pagi_amp_malam"><![CDATA[Pagi & Malam]]></string>
+    <string name="text_rumah">Rumah</string>
+    <string name="text_makanan_amp_minuman"><![CDATA[Makanan & Minuman]]></string>
+    <string name="text_perjalanan">Perjalanan</string>
+    <string name="text_sholat">Sholat</string>
+    <string name="text_etika_baik">Etika baik</string>
+    <string name="text_jadwal_imsak">text_jadwal_imsak</string>
+    <string name="text_00">text_00</string>
+    <string name="text_rp_0">Rp 0</string>
+    <string name="text_zakat_keluar">Zakat Keluar</string>
+</resources>
